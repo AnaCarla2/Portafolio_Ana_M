@@ -117,7 +117,7 @@ export function Contact() {
                     <path d="M9 18c-4.51 2-5-2-7-2"></path>
                   </svg>
                 </a>
-                <a href="https://drive.google.com/file/d/1jSUBZbfSCGfcSC0gXWnxWUYfPy6tdDej/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="bg-white text-[#6C63FF] p-3 rounded-full hover:bg-opacity-90 transition-all">
+                <a href="https://drive.google.com/file/d/1TXUJgGTfs6PhxMRwPDEEEla43sE-tY7P/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="bg-white text-[#6C63FF] p-3 rounded-full hover:bg-opacity-90 transition-all">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                     viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
